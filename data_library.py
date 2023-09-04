@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
+import selenium
 import requests 
-from selenium import webdriver
-import json 
+import _json
 import mariadb #DB
 import sys
 import pandas as pd
